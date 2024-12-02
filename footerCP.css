@@ -1,0 +1,36 @@
+/* Footer styles */
+
+.footer {
+  background-color: #333333;
+  height: 300px;
+  width: 2563px;
+}
+
+.footer > .footer-links-wrapper {
+  display:flex;
+  flex:auto;
+  align-items: center;
+  height: 60px;
+}
+
+.footer > .footer-links-wrapper > .nav-link-footer a{
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 232px;
+  padding-right: 232px;
+  color: #ffffff;
+  text-decoration: none;
+  border: 0.5px solid #ffffff;
+  background-color: rgb(114, 113, 113) ;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;   
+}
+
+.footer > .footer-links-wrapper > .nav-link-footer span {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 800;
+  font-size: large;
+}
+
+  
+  
